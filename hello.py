@@ -5,14 +5,21 @@ b = 65;
 
 print(a+b)
 
+a = 45;
+b = 56;
+c = 78;
+print(a+b+c)
+
 a = 25;
 b = "the earth is so big but smaller compared to the universe"
 c = 95.99
 d = True
 
-print(type(a))  # THIS gives the type for a,b,c,d ! ! ! 
-print(type(b))
-print(type(c))
-print(type(d))
+print(type(a))  # THIS gives the type for a !
+print(type(b))  # THIS gives the type for b !
+print(type(c))  # THIS gives the type for c !
+print(type(d))  # THIS gives the type for d !
+
+
 
 
