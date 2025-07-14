@@ -1,4 +1,7 @@
 print("Hello Ahmed! This is my first GitHub Python project.")
+print("Learning python day-by-day!!!")
+print("Pythin is easy to learn but have to be consistent in coding daily")
+print("With the effort and dedication anyone can start changing their life!!!")
 
 a = 45
 b = 65
