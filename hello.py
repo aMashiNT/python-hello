@@ -24,6 +24,11 @@ print(type(c))  # THIS gives the type for c !
 print(type(d))  # THIS gives the type for d !
 print(type(e))  # THIS gives the type for e !
 
+name = "Ahmed"
+age  = 30000
+print("My name is", name)
+
+
 
 
 

@@ -1,16 +1,17 @@
-"terminal.integrated.defaultProfile.windows": "PowerShell",
-"terminal.integrated.profiles.windows": {
-  "PowerShell": {
-    "source": "PowerShell"
-  },
-  "Command Prompt": {
-    "path": [
-      "${env:windir}\\Sysnative\\cmd.exe",
-      "${env:windir}\\System32\\cmd.exe"
-    ],
-    "args": []
-  },
-  "Git Bash": {
-    "path": "C:\\Program Files\\Git\\git-bash.exe"
+{
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.profiles.windows": {
+    "PowerShell": {
+      "source": "PowerShell"
+    },
+    "Command Prompt": {
+      "path": [
+        "${env:windir}\\Sysnative\\cmd.exe",
+        "${env:windir}\\System32\\cmd.exe"
+      ]
+    },
+    "Git Bash": {
+      "path": "C:\\Program Files\\Git\\git-bash.exe"
+    }
   }
 }
